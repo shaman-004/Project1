@@ -3,6 +3,7 @@ Step by Step Process
 First of all, make sure to install Git on your computer. Now, head toward that folder that you want to push there on GitHub. Then, follow the following steps. 
 <hr>
 🎮For Contribution follow the below:
+<hr>
 Step 1. Open Git Bash in that particular folder. Type git init (this will make that folder a repository)
 ![image](https://github.com/shaman-004/Project1/assets/93532515/0255fa72-cf98-43ef-b088-97d067d3e52a)
 
